@@ -1,4 +1,4 @@
-# Workation
+# Workcation
 
 To get started:
 
